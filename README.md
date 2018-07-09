@@ -452,3 +452,4 @@ Apache 2.0 (see [LICENSE][license])
 [vmware_plugin]:            http://www.vagrantup.com/vmware
 [fusion_dl]:                http://www.vmware.com/products/fusion/overview.html
 [workstation_dl]:           http://www.vmware.com/products/workstation/
+
